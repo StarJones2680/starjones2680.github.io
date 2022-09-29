@@ -28,6 +28,8 @@
 
     // example:
     createCannon("top", 450);
+    createCannon("left", 150)
+    createCannon("right", 250)
 
     // ALL YOUR CODE GOES ABOVE HERE ///////////////////////////////////////
     ////////////////////////////////////////////////////////////////////////
